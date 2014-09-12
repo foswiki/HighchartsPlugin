@@ -1,0 +1,14 @@
+*~
+*,v
+*.gz
+igp_*
+.changes
+*.swp
+tmp
+HighchartsPlugin.md5
+HighchartsPlugin.sha1
+HighchartsPlugin.tgz
+HighchartsPlugin.txt
+HighchartsPlugin.zip
+HighchartsPlugin_installer
+HighchartsPlugin_installer.pl
